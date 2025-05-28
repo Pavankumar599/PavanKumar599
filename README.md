@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Pavan Kumar Medarametla
 
-<!--
-**Pavankumar599/PavanKumar599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year CSE Student | Aspiring AI/ML Engineer  
+💻 Passionate about Python, Deep Learning, and Full-Stack Development  
+📫 Connect with me: [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+`Python` `Java` `Spring Boot` `TensorFlow` `React` `SQL` `Git`
+
+---
+
+### 🚀 Featured Projects
+- 🔍 [Hate Speech Detection using Transformers](https://github.com/yourrepo1)
+- 🥭 [Mango Quality Detector using YOLOv6](https://github.com/yourrepo2)
+- 🏠 [House Price Prediction](https://github.com/yourrepo3)
+
+---
