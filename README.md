@@ -1,13 +1,18 @@
-# Hi 👋, I'm Pavan Kumar Medarametla
+# Hi 👋, I'm Medarametla Pavan Kumar
 
-🎓 Final Year CSE Student | Aspiring AI/ML Engineer  
-💻 Passionate about Python, Deep Learning, and Full-Stack Development  
-📫 Connect with me: [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
 
+🎓 Recently graduated B.Tech student in Computer Science  
+💡 Passionate about solving real-world problems using AI, ML, and Data Science  
+🛠️ Exploring Autonomous Agents, MLOps, and Generative AI  
+🌱 Currently learning: Agentic AI, LangChain, and LLM applications  
+📫 How to reach me: [Email](mailto:medarametlapavankumar18@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pavan-kumar-medarametla-78676a22a/) | [GitHub](https://github.com/PavanKumar599)
+
+
+ 
 ---
 
 ### 🛠️ Tech Stack
-`Python` `Java` `Spring Boot` `TensorFlow` `React` `SQL` `Git`
+`Python` `Java` `TensorFlow` `SQL` `Git` `Machine Learning`
 
 ---
 
