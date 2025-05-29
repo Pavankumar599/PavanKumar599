@@ -15,6 +15,9 @@
 `Python` `Java` `TensorFlow` `SQL` `Git` `Machine Learning`
 
 ---
+### Learning
+- 🐍 [Python](https://github.com/Pavankumar599/python)
+
 
 ### 🚀 Featured Projects
 - 🔍 [Hate Speech Detection using Transformers](https://github.com/yourrepo1)
