@@ -12,7 +12,7 @@
 ---
 
 ### 🛠️ Tech Stack
-`Python` `Java` `TensorFlow` `SQL` `Git` `Machine Learning` `Deep Learning` `MLOps` `Natural Language Processing` `Generative Ai`
+`Python` `Java` `DBMS` `SQL` `Git` `Machine Learning` `Deep Learning` `TensorFlow` `scikit-learning` `MLOps` `Natural Language Processing` `Generative Ai`
 
 ---
 ### Learning
