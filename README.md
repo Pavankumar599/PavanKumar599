@@ -20,8 +20,8 @@
 
 
 ### 🚀 Featured Projects
-- 🔍 [Hate Speech Detection using Transformers](https://github.com/yourrepo1)
-- 🥭 [Mango Quality Detector using YOLOv6](https://github.com/yourrepo2)
+- 🔍 [Fake News Detection](https://github.com/y)
+- 🥭 [Satelite image classification](https://github.com/yourrepo2)
 - 🏠 [House Price Prediction](https://github.com/yourrepo3)
 
 ---
