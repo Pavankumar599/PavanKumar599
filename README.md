@@ -20,7 +20,7 @@
 
 
 ### 🚀 Featured Projects
-- 🔍 [Fake News Detection](https://github.com/y)
+- 🔍 [Fake News Detection](https://github.com/Pavankumar599/Fake-news-Detection)
 - 🥭 [Satelite image classification](https://github.com/yourrepo2)
 - 🏠 [House Price Prediction](https://github.com/yourrepo3)
 
