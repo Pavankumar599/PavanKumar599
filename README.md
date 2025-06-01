@@ -63,6 +63,13 @@
 
 ---
 
+### 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/pavan_kumar599?ext=contest&theme=dark" alt="LeetCode Stats" />
+</p>
+
+
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kumar-medarametla-78676a22a/)
