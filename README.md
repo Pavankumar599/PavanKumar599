@@ -42,7 +42,7 @@
 
 ### 🚀 Featured Projects
 
-- 🔍 [Fake News Detection](https://github.com/PavanKumar599/Fake-news-Detection)
+- 🔍 [Fake News Detection using MLOPS](https://github.com/PavanKumar599/Fake-news-Detection)
 - 🛰️ [Satellite Image Classification](https://github.com/PavanKumar599/satellite-image-classification) <!-- Replace with actual repo -->
 - 🏠 [House Price Prediction](https://github.com/PavanKumar599/House-price-prediction) <!-- Replace with actual repo -->
 
