@@ -28,6 +28,7 @@
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
     <img src="https://img.shields.io/badge/MLOps-0064a5?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/NLP-007ACC?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/RAG-0066CC?style=for-the-badge&logo=semantic-release&logoColor=white" />
     <img src="https://img.shields.io/badge/Generative%20AI-ff4081?style=for-the-badge"/>
   </marquee>
 </p>
