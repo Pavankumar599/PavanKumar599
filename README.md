@@ -42,11 +42,10 @@
 ---
 
 ### 🚀 Featured Projects
-
+- 📝 [Student Assignment Grader](https://github.com/Pavankumar599/student-assignment-grader)
 - 🔍 [Fake News Detection using MLOPS](https://github.com/PavanKumar599/Fake-news-Detection)
-- 🛰️ [Satellite Image Classification](https://github.com/PavanKumar599/satellite-image-classification) <!-- Replace with actual repo -->
-- 🏠 [House Price Prediction](https://github.com/PavanKumar599/House-price-prediction) <!-- Replace with actual repo -->
-
+- 🛰️ [Satellite Image Classification](https://github.com/PavanKumar599/satellite-image-classification) 
+- 🏠 [House Price Prediction](https://github.com/PavanKumar599/House-price-prediction) 
 ---
 
 ### 📈 GitHub Stats
