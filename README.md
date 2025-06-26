@@ -46,7 +46,7 @@
 - 🔍 [Fake News Detection using MLOPS](https://github.com/PavanKumar599/Fake-news-Detection)
 - 🛰️ [Satellite Image Classification](https://github.com/PavanKumar599/satellite-image-classification) 
 - 🏠 [House Price Prediction](https://github.com/PavanKumar599/House-price-prediction) 
---  [chatbot](https://github.com/pavanKumar599/chatbot)
+-    [chatbot](https://github.com/pavanKumar599/chatbot)
 
 ### 📈 GitHub Stats
 
