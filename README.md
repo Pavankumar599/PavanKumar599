@@ -63,11 +63,6 @@
 
 ---
 
-### 🧠 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/pavan_kumar599?ext=contest&theme=dark" alt="LeetCode Stats" />
-</p>
 
 
 ### 🤝 Let's Connect
