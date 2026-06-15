@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Medarametla Pavan Kumar</h1>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=500&lines=Fullstack+Developer;AI+%26+Automation+Enthusiast;Competitive+Programmer;Always+Learning+🚀)](https://git.io/typing-svg)
+
 💻 **AI/ML Enthusist** | 🧠 Exploring **AI + Automation** | 🎯 Passionate about building projects that solve real problems.  
 
 ---
@@ -10,7 +12,6 @@
 - 💡 Passionate about solving real-world problems using **AI, ML, and Data Science**  
 - 🛠️ Exploring **Autonomous Agents**, **MLOps**, and **Generative AI**  
 - 🌱 Currently learning: **Agentic AI**, **LangChain**, and **LLM applications**
-💻 **AI/ML Enthusiast** | 🧠 Exploring **AI + Automation** | 🎯 Passionate about building projects that solve real problems.  
 - 📫 Reach me at: [Email](mailto:medarametlapavankumar18@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pavan-kumar-medarametla-78676a22a/) | [GitHub](https://github.com/PavanKumar599)
 
 ---
@@ -48,7 +49,7 @@
 - 🔍 [Fake News Detection using MLOPS](https://github.com/PavanKumar599/Fake-news-Detection)
 - 🛰️ [Satellite Image Classification](https://github.com/PavanKumar599/satellite-image-classification) 
 - 🏠 [House Price Prediction](https://github.com/PavanKumar599/House-price-prediction) 
--    [chatbot](https://github.com/pavanKumar599/chatbot)
+- 💬 [chatbot](https://github.com/pavanKumar599/chatbot)
 
 ### 📈 GitHub Stats
 
@@ -64,8 +65,6 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PavanKumar599&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
-
 
 ### 🤝 Let's Connect
 
