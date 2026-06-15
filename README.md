@@ -5,10 +5,11 @@
 
 ### 💡 About Me
 
-- 🎓 Recently graduated B.Tech student in Computer Science  
+- 🎓 Graduated B.Tech student in Computer Science  
 - 💡 Passionate about solving real-world problems using **AI, ML, and Data Science**  
 - 🛠️ Exploring **Autonomous Agents**, **MLOps**, and **Generative AI**  
-- 🌱 Currently learning: **Agentic AI**, **LangChain**, and **LLM applications**  
+- 🌱 Currently learning: **Agentic AI**, **LangChain**, and **LLM applications**
+💻 **AI/ML Enthusiast** | 🧠 Exploring **AI + Automation** | 🎯 Passionate about building projects that solve real problems.  
 - 📫 Reach me at: [Email](mailto:medarametlapavankumar18@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pavan-kumar-medarametla-78676a22a/) | [GitHub](https://github.com/PavanKumar599)
 
 ---
